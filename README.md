@@ -10,7 +10,7 @@ Another Universe is a **Hypercasual game** developed with Unity. Players are tak
 ## 🚀 Install and Run 
 1. Download this repository to your computer:  
    ```bash
- git clone https://github.com/begumsara/Another-Universe.git
+ https://github.com/begumsara/Another-Universe.git
  ```  
 2. Go to the `Another Universe` folder.  
 3. Run `Another Universe.exe`.  
